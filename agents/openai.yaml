@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Optimizer"
+  short_description: "Optimize prompts across models and languages"
+  default_prompt: "Use $prompt-optimizer to improve this system or user prompt for the target model."
